@@ -9,7 +9,7 @@ import { RACES } from './mocks'
 })
 
 export class RacesComponent {
-  heading = "Ultra Racing Schedule"
+  heading = "Formula 1 Schedule"
   cash = 10000;
   races: Race[];
 
